@@ -1,0 +1,58 @@
+{
+	"id": -1,
+	"name": "The mole and Reksio holding beer",
+	"description": "The mole and Reksio holding beer to eachother is a symbol of Polish Chech Relations in r/place 2023.",
+	"links": {
+		"subreddit": [
+			"chech",
+			"ploska",
+			"poland"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				444,
+				-160
+			],
+			[
+				443,
+				-120
+			],
+			[
+				544,
+				-121
+			],
+			[
+				541,
+				-147
+			],
+			[
+				499,
+				-152
+			],
+			[
+				492,
+				-167
+			],
+			[
+				478,
+				-163
+			],
+			[
+				476,
+				-154
+			],
+			[
+				444,
+				-156
+			]
+		]
+	},
+	"center": {
+		"254": [
+			486,
+			-139
+		]
+	}
+}
